@@ -5,9 +5,9 @@
 
 ### :man_technologist: Обо мне:
 
-I am a novice backend developer. My beginning in the IT field.Self-study of Python (2020), then Study at Samsung school (2021) After training, he improved in Java and python, implemented his own projects (Mobile applications, bots for various messengers).
-Since 2021, he has been actively participating in hackathons, the main directions in them were Mobile applications, website development, neural networks. 
-At the moment I actively participate in various IT events.
+Я начинающий backend разработчик. Мое начало в IT сфере.Самостоятельное изучение Python (2020), далее Обучение в Samsung школе (2021) После обучения совершенствовался в Java и python, реализовывал собственные проекты (Мобильные приложения, боты для разных мессенджеров).
+С 2021 активно начал участвовать в хакатонах, основными направлениями в них были - Мобильные приложения, разработка сайтов, нейронные сети. 
+На данный момент активно участвую в различных IT мероприятиях.
 
 <p align="center">
  <img width="600" src="assets/progress.png" alt="snake"/>
