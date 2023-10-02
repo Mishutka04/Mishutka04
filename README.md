@@ -63,5 +63,5 @@ At the moment I actively participate in various IT events.
 
 ### ⚙️ GitHub статистика:
 
-![Mishutka GitHub stats](https://github-readme-stats.vercel.app/api?username=mifka428&show_icons=true&theme=tokyonight)</br>
+![Mishutka GitHub stats](https://github-readme-stats.vercel.app/api?username=mishutka04&show_icons=true&theme=tokyonight)</br>
 
