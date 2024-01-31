@@ -30,9 +30,6 @@
     <a href="https://discordapp.com/users/519448941398458379/" target="_blank">
       <img src="assets/icon/discord.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/pomidor3374" target="_blank">
-      <img src="assets/icon/telegram.png" width="40" height="40" alt="telegram group" />
-    </a>
   </div>
 
 ---
