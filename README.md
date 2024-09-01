@@ -62,4 +62,4 @@ Backend | ML | DS разработчик. Активно учавствую в �
 ![Mishutka GitHub stats](https://github-readme-stats.vercel.app/api?username=mishutka04&show_icons=true&theme=tokyonight)</br>
 
 ### ⚙️ GitHub статистика:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mishutka04)](https://github.com/anuraghazra/github-readme-stats)
